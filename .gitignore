@@ -25,3 +25,7 @@ Carthage/Build
 .idea
 Podfile.lock
 .DS_Store
+
+# Swift Package Manager
+Package.resolved
+.swiftpm/xcode
