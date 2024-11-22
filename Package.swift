@@ -14,7 +14,7 @@ let package = Package(
     dependencies: [
         .package(
             url: "https://github.com/ReactiveX/RxSwift.git",
-            "6.6.0"..."6.6.0"
+            "6.8.0"..."6.8.0"
         )
     ],
     targets: [
